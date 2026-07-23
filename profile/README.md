@@ -15,6 +15,9 @@
 
 ## 아키텍처
 
+<img width="2568" height="1860" alt="image" src="https://github.com/user-attachments/assets/652b69e9-668f-4722-b059-ad1abaefaa68" />
+
+
 ## 기술 스택
 
 <h3 align="center">Frontend</h3>
