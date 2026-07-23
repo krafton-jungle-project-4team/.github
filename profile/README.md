@@ -15,7 +15,7 @@
 
 ## 아키텍처
 
-<img width="2568" height="1860" alt="image" src="https://github.com/user-attachments/assets/652b69e9-668f-4722-b059-ad1abaefaa68" />
+<img width="3606" height="2613" alt="loop-ad_-v12 drawio_" src="https://github.com/user-attachments/assets/34622a0a-676c-4692-b7f4-144efca05cb7" />
 
 
 ## 기술 스택
