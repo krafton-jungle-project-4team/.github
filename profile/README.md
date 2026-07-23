@@ -17,6 +17,16 @@
 
 ## 기술스택
 
+Frontend
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript&logoColor=fff)
+![Vite](https://img.shields.io/badge/Vite-7-646CFF?logo=vite&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=fff)
+![shadcn](https://img.shields.io/badge/shadcn/ui-000000?logo=shadcnui&logoColor=fff)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-5-FF4154?logo=reactquery&logoColor=fff)
+![TanStack Router](https://img.shields.io/badge/TanStack_Router-1.170-FF4154?logo=reactrouter&logoColor=fff)
+![Recharts](https://img.shields.io/badge/Recharts-3-8884D8)
+
 ## 시작하기 
 
 ## 팀원소개
